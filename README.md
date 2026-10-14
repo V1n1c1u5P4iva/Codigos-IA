@@ -8,7 +8,7 @@ Repositório com os códigos utilizados no Trabalho de Conclusão de Curso (TCC)
 
 ## Sobre este repositório
 
-Aqui estão os códigos gerados por LLMs e utilizados no estudo de caso do TCC, comparando duas estratégias de prompting (zero-shot e Chain-of-Thought) em uma aplicação com backend em Python e frontend em React. Os códigos foram avaliados quanto à qualidade estrutural (SonarQube) e corretude funcional (suíte de testes manual).
+Código zero-shot adicionado ao estudo de caso do TCC, juntamente com os demais códigos gerados por LLMs. O projeto compara duas estratégias de prompting (zero-shot e Chain-of-Thought) em uma aplicação com backend em Python e frontend em React. Os códigos foram avaliados quanto à qualidade estrutural (SonarQube) e corretude funcional (suíte de testes manual).
 
 Este material é parte de um trabalho acadêmico individual e está disponibilizado apenas para fins de consulta e referência.
 
